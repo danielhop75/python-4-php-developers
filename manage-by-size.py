@@ -4,6 +4,7 @@
 
 import os
 
+
 class MyFile:
 	iloscObiektow=0
 	iloscDuplikatow=0
